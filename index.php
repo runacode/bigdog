@@ -1,7 +1,7 @@
-<?php $company = "PRESTIGE IMPORT AUTO";
-$phone = "(305) 261-8083";
-	$address1 = "7013 SW 46TH ST";
-	$address2 = "MIAMI, FL 33155";
+<?php $company = "BIG DOG THEATER";
+$phone = "(216) 472-3636";
+	$address1 = "2781 Euclid Heights Blvd";
+	$address2 = "Cleveland, OH 44106";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
